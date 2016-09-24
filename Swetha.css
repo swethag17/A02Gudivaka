@@ -1,0 +1,71 @@
+body{
+	font-size: 17px;
+	background-color: #1d1212;
+	color: #fff;
+	font-family: "Josefin Slab";
+}
+.navbar-prmy{
+	/*background-color:#3b5998;	*/
+}
+
+img{
+	max-width: 100%;
+}
+h1{
+	font-size: 50px;
+	font-family: Sacramento;
+}
+a{
+	color: #fff;
+}
+a:hover{
+	color: #fff;
+	font-weight: 700;
+}
+label{
+	font-weight: 400;
+}
+form[name="ctForm"] button{
+	color: #1d1212;
+    font-size: 1.25em;
+}
+.scIcons{
+	color: #1d1212;
+	font-size: 1.7em;
+}
+.scIcons li>a{
+	padding-top: 0.32em;
+	padding-right: 0.2em;
+	padding-left: 0.2em;
+	padding-bottom: 0em;
+	/*font-size: 2em;*/
+}
+.tcenter{
+	text-align: center;
+}
+.hinfo{
+	margin-top: 12%;
+}
+.hinfo h1{
+	font-family: Sacramento;
+}
+.hinfo p{
+	font-size:1.5em;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #1d1212;
+    font-size: 1.3em;
+    font-family: "Croissant One";
+}
+.navbar-brand {
+	color: #1d1212;
+	font-size: 1.3em;
+    font-family: "Croissant One";
+}
+.mCnt1{
+	width: 50%;
+}
+#fnlPrice{
+	font-weight: bold;
+}
